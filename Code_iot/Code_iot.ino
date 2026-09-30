@@ -10,8 +10,8 @@ const int ledPin = 23;
 const float thresholdTemp = 30.0;
 
 // ⚠️ ĐIỀN WIFI VÀ MẬT KHẨU CỦA BẠN VÀO ĐÂY
-const char* ssid = "cangcacangphe";
-const char* password = "canuacamai";
+const char* ssid = "Bekind Coffee";
+const char* password = "camonquykhach";
 
 WebServer server(80);
 bool isAutoMode = true;
