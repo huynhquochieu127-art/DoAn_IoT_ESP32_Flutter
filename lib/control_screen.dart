@@ -13,7 +13,7 @@ class ControlScreen extends StatefulWidget {
 
 class _ControlScreenState extends State<ControlScreen> {
   // ⚠️ KIỂM TRA LẠI IP CỦA BẠN
-  final String ipAddress = "192.168.110.44";
+  final String ipAddress = "172.20.10.3";
 
   double _temperature = 0.0;
   double _humidity = 0.0;
